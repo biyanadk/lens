@@ -1,9 +1,9 @@
 {
-        'Yanreareo': datetime.datetime(2025, 2, 27),
-        'lisensi': datetime.datetime(2025, 1, 29),
-        'lisensi': datetime.datetime(2024, 12, 18),
-        'lisensi': datetime.datetime(2024, 12, 23),
-        'lisensi': datetime.datetime(2025, 1, 10),
-        'lisensi': datetime.datetime(2024, 12, 28),
-        'lisensi': datetime.datetime(2034, 9, 28)
-    }
+    "LICENSE-12345": "2025-01-27",
+    "LICENSE-67890": "2025-01-29",
+    "LICENSE-11111": "2024-12-18",
+    "LICENSE-22222": "2024-12-23",
+    "LICENSE-33333": "2025-01-10",
+    "LICENSE-44444": "2024-12-28",
+    "LICENSE-55555": "2034-09-28"
+}
